@@ -1,31 +1,8 @@
-# Climate Challenge Week 0
-
-## Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone <your-repo-url>
-cd climate-challenge-week0
-```
-
-### 2. Create virtual environment
-```bash
-python -m venv .venv
-```
-
-### 3. Activate environment
-
-Windows:
-```bash
-.venv\Scripts\activate
-```
-
-Mac/Linux:
-```bash
-source .venv/bin/activate
-```
-
-### 4. Install dependencies
-```bash
-pip install -r requirements.txt
-```
+## Project Structure
+- `.github/workflows/`: Contains the CI pipeline (`ci.yml`) for environment verification.
+- `.vscode/`: Editor settings for consistent development environment.
+- `data/`: Local storage for raw and processed climate datasets (excluded from Git via `.gitignore`).
+- `notebooks/`: Jupyter notebooks for exploratory data analysis (EDA).
+- `scripts/`: Python utility scripts for data processing.
+- `src/`: Main source code for the Climate Challenge.
+- `tests/`: Unit tests to ensure code quality and reliability.
