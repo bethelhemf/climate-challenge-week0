@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project Structure
 - `.github/workflows/`: Contains the CI pipeline (`ci.yml`) for environment verification.
 - `.vscode/`: Editor settings for consistent development environment.
@@ -6,3 +7,4 @@
 - `scripts/`: Python utility scripts for data processing.
 - `src/`: Main source code for the Climate Challenge.
 - `tests/`: Unit tests to ensure code quality and reliability.
+
