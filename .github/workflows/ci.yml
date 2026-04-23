@@ -1,4 +1,4 @@
-ame: Climate Challenge CI
+name:  Climate Challenge CI
 
 on:
   push:
