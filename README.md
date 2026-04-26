@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Project Structure
 - `.github/workflows/`: Contains the CI pipeline (`ci.yml`) for environment verification.
 - `.vscode/`: Editor settings for consistent development environment.
